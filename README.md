@@ -1,3 +1,5 @@
+v:3
+
 termux-setup-storage
 
 pkg update
